@@ -25,8 +25,8 @@ venkstato = {
         }
         
         UI_ILO.KreiTeksto( { titolo: "venkanto", vortoj: teksto,
-                             koloro: "#000000", font: "bold 40px Courier",
-                             x: ( titolstato.agordoj.largxo / 2 ) - ( teksto.length * 25 ) / 2,
+                             koloro: "#000000", font: "bold 38px Courier",
+                             x: ( titolstato.agordoj.largxo / 2 ) - ( teksto.length * 22 ) / 2,
                              y: 200 } );
                              
         UI_ILO.KreiButono( { titolo: "reveniButono", vortoj: "< Back",
